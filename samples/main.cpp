@@ -1,7 +1,5 @@
-#include "ThreadPool/ThreadPool.hpp"
+int main() {
+    //TODO tests
 
-int main(int argc, char* argv[])
-{
-    ThreadPool t(5, 2);
     return 0;
 }
